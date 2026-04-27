@@ -8,7 +8,8 @@
 </head>
 
 <body>
-
+    <h2>Calculate Absensi</h2>
+    <form action="/calculate-absensi" method="POST">
 </body>
 
 </html>
