@@ -4,13 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Employee</title>
 </head>
 
 <body>
-    <h1>Christian</h1>
-    <h2>Calculate Absensi</h2>
-    <form action="/calculate-absensi" method="POST">
+    <h1>Employee Name</h1>
 </body>
 
 </html>
